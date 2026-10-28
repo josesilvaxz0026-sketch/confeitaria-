@@ -1,0 +1,6 @@
+{
+  "name": "Doce Ateliê - Confeitaria Artesanal",
+  "description": "Site oficial e sistema de pedidos e comanda para a confeitaria Doce Ateliê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
